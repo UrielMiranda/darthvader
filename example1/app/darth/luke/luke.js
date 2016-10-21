@@ -20,7 +20,7 @@
         var c3 = this;
 
         c3.data = this.data;
-        console.log(`Componnte LukeSkywalker ${c3.data}`);
+        console.log(`Componente LukeSkywalker ${c3.data}`);
     }
 
 })();
